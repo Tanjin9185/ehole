@@ -3,7 +3,6 @@ import AppRouter from './services/AppRouter';
 
 function App() {
   return (
-    // var bro = "hjh";
     <>
       <AppRouter>
         <Header />
